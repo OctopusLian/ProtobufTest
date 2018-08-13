@@ -1,0 +1,23 @@
+syntax = "proto3";  //声明使用proto3
+
+package test;  //包名，通过protoc生成go文件
+
+enum PhoneType{
+	HOME = 0;
+	WORK = 1;
+}
+
+message Phone{  //消息定义的关键字
+	PhoneType type = 1;
+	string number = 2;
+}
+
+message Person{
+	int32 id = 1;
+	string name = 2;
+	repeated Phone phones = 3;  //字段可以被重复任意多次（包括0次）
+}
+
+message ContactBook{
+	repeated Person persons = 1;
+}
