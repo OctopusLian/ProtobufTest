@@ -14,7 +14,7 @@ It has these top-level messages:
 */
 package protobuf
 
-import proto "pf2test/github.com/golang/protobuf/proto"
+import proto "ProtobufTest/pf2test/github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
 

@@ -3,9 +3,8 @@ package main
 
 import (
 	"fmt"
-	"pf2test/protobuf"
-
-	"pf2test/github.com/golang/protobuf/proto"
+	"ProtobufTest/pf2test/protobuf"
+	"ProtobufTest/pf2test/github.com/golang/protobuf/proto"
 )
 
 func main() {

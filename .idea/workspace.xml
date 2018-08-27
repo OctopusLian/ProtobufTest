@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e264311-e27a-4e67-ba88-fede39fc8b1f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf2test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pf2test/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf2test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/pf2test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pf2test/protobuf/proto2test.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/pf2test/protobuf/proto2test.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/.idea/pftest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.travis/docker.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.travis/gofmt.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/.travis/wait_mysql.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/appengine.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/auth_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/benchmark_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/buffer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/collations.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/connection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/connection_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/const.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/driver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/driver_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/dsn.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/dsn_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/errors_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/fields.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/infile.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/packets.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/packets_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/result.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/rows.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/statement.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/statement_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/transaction.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/go-sql-driver/mysql/utils_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/clone.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/decode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/discard.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/encode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/equal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/extensions.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/lib.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/message_set.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/pointer_reflect.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/pointer_unsafe.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/properties.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/table_marshal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/table_merge.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/table_unmarshal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/text.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/github.com/golang/protobuf/proto/text_parser.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/pf/protoc-gen-go.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/pf/protoc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/pf/test.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/pf/test.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/pftest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pftest/test.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pf2test/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="e#38#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pf3test/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <element signature="e#38#131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proto2test.pb.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pf2test/protobuf/proto2test.pb.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#280#371#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doc.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pf2test/doc.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pf2test/main.go" />
+        <option value="$PROJECT_DIR$/pf2test/protobuf/proto2test.pb.go" />
+        <option value="$PROJECT_DIR$/pf3test/main.go" />
+        <option value="$PROJECT_DIR$/pf3test/pf/test.pb.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="742" />
+    <option name="y" value="53" />
+    <option name="width" value="976" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProtobufTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProtobufTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProtobufTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProtobufTest" type="462c0819:PsiDirectoryNode" />
+              <item name="pf2test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProtobufTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProtobufTest" type="462c0819:PsiDirectoryNode" />
+              <item name="pf2test" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProtobufTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProtobufTest" type="462c0819:PsiDirectoryNode" />
+              <item name="pf3test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ProtobufTest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pf3test/main.go" />
+      <package value="ProtobufTest" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ProtobufTest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pf2test/main.go" />
+      <package value="ProtobufTest" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pf2test/doc.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pf2test/protobuf/proto2test.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#280#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pf2test/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#38#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pf3test/pf/test.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#252#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pf3test/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="e#38#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

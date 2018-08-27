@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-	"pftest/pf"
+	"ProtobufTest/pf3test/pf"
 
-	"pftest/github.com/golang/protobuf/proto"
+	"ProtobufTest/pf3test/github.com/golang/protobuf/proto"
 )
 
 func write() {
